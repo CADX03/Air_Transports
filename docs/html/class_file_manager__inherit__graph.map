@@ -1,0 +1,6 @@
+<map id="FileManager" name="FileManager">
+<area shape="rect" id="node1" title=" " alt="" coords="205,5,308,32"/>
+<area shape="rect" id="node2" href="$class_airlines_file_manager.html" title=" " alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$class_airports_file_manager.html" title=" " alt="" coords="180,80,333,107"/>
+<area shape="rect" id="node4" href="$class_flights_file_manager.html" title=" " alt="" coords="358,80,505,107"/>
+</map>

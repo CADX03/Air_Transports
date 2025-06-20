@@ -1,0 +1,7 @@
+<map id="Graph::destAirports" name="Graph::destAirports">
+<area shape="rect" id="node1" title=" " alt="" coords="748,56,896,83"/>
+<area shape="rect" id="node2" href="$class_graph.html#af17834e1b8e0a591425b8abf351f5e4f" title=" " alt="" coords="529,5,700,32"/>
+<area shape="rect" id="node3" href="$class_graph.html#a2e659afb9320ea54b939eabdf1effc6b" title=" " alt="" coords="299,56,453,83"/>
+<area shape="rect" id="node5" href="$class_flights_manager.html#ad7ece95f07f1572e7d8c1ca249086962" title=" " alt="" coords="271,107,481,133"/>
+<area shape="rect" id="node4" href="$class_flights_manager.html#aef2fcb5da1937b1c303d137d63f65409" title=" " alt="" coords="5,81,223,108"/>
+</map>

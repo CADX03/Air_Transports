@@ -1,0 +1,5 @@
+<map id="FlightsManager::airportsInCity" name="FlightsManager::airportsInCity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,187,65"/>
+<area shape="rect" id="node2" href="$class_flights_manager.html#a7a2e91c362931e84cfb2ed4dfdd4ba6b" title=" " alt="" coords="235,5,416,32"/>
+<area shape="rect" id="node3" href="$class_city.html#a4133a8f7cee1ed60af33ceb10869b4c7" title=" " alt="" coords="262,56,389,83"/>
+</map>
